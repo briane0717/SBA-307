@@ -10,3 +10,9 @@
     text-decoration: underline;
     margin: 0;
 }
+
+.main-content {
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
