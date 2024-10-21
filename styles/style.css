@@ -34,3 +34,7 @@ body {
 
 .btn:hover {
     background-color: #01150e;}
+
+.shorten-input{
+    width: 400px;
+}
