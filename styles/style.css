@@ -16,3 +16,9 @@
     padding: 50px 20px;
     text-align: center;
 }
+
+.main-content h2 {
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
