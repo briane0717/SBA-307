@@ -38,3 +38,18 @@ body {
 .shorten-input{
     width: 400px;
 }
+
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
